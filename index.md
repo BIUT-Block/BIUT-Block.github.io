@@ -23,16 +23,18 @@
   <h3><i class="fa fa-wrench"></i> UTILITY DEVELOPMENT</h3>
   <p>Libraries and tools to support Dapp development.</p>
   {% include repository.html name="secjs-util" %}
+  {% include repository.html name="secjs-judge" %}
+  {% include repository.html name="secjs-vote" %}
   {% include repository.html name="secjs-datahandler" %}
 </div>
 
 <div class="repo-group">
   <h3><i class="fa fa-balance-scale"></i> TX MANAGEMENT</h3>
   <p>Tools for SEC transaction management and wallet interaction.</p>
-  {% include repository.html name="secjs-rlp" %}
   {% include repository.html name="secjs-tx" %}
   {% include repository.html name="secjs-wallet" %}
   {% include repository.html name="secjs-icap" %}
+  {% include repository.html name="secjs-rlp" %}
 </div>
 
 <div class="separator"></div>
@@ -51,8 +53,6 @@
   <p>Implementation of the SEC network communication layer.</p>
   {% include repository.html name="secjs-devp2p" %}
   {% include repository.html name="secjs-group" %}
-  {% include repository.html name="secjs-judge" %}
-  {% include repository.html name="secjs-vote" %}
   {% include repository.html name="secjs-circle" %}
 
 </div>
