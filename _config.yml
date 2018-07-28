@@ -1,0 +1,14 @@
+title: Social Ecommerce Chain (SEC)
+description: Blockchain agreement in the next generation of e-commerce based on social trust
+repository: SECblock
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
+  - jekyll-github-metadata
+
+sass:
+  load_paths:
+    - assets/css                        # original sass
