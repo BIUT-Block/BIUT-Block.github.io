@@ -46,6 +46,7 @@
   {% include repository.html name="secjs-account" %}
   {% include repository.html name="secjs-crypto" %}
   {% include repository.html name="secjs-common" %}
+  {% include repository.html name="secjs-pow" %}
 </div>
 
 <div class="repo-group">
