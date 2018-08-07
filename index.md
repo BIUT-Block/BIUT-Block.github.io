@@ -43,6 +43,7 @@
   <h3><i class="fa fa-cubes"></i> BLOCKCHAIN</h3>
   <p>Implementations of the main building blocks of the SEC blockchain.</p>
   {% include repository.html name="secjs-blockchain" %}
+  {% include repository.html name="secjs-transactionpool" %}
   {% include repository.html name="secjs-account" %}
   {% include repository.html name="secjs-crypto" %}
   {% include repository.html name="secjs-common" %}
