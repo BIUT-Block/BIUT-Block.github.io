@@ -9,6 +9,7 @@
   <h3><i class="fa fa-cogs"></i> VIRTUAL MACHINE</h3>
   <p>Implementation of the SEC virtual machine supporting the latest fork rules.</p>
   {% include repository.html name="secjs-SmartContractDemo" %}
+  {% include repository.html name="secjs-vmlite" %}
 </div>
 
 <div class="repo-group">
@@ -26,7 +27,7 @@
   {% include repository.html name="secjs-judge" %}
   {% include repository.html name="secjs-vote" %}
   {% include repository.html name="secjs-datahandler" %}
-    {% include repository.html name="secjs-logger" %}
+  {% include repository.html name="secjs-logger" %}
 </div>
 
 <div class="repo-group">
@@ -36,6 +37,8 @@
   {% include repository.html name="secjs-wallet" %}
   {% include repository.html name="secjs-icap" %}
   {% include repository.html name="secjs-rlp" %}
+  {% include repository.html name="secjs-keys" %}
+  {% include repository.html name="secjs-hashcode" %}
 </div>
 
 <div class="separator"></div>
@@ -49,6 +52,7 @@
   {% include repository.html name="secjs-crypto" %}
   {% include repository.html name="secjs-common" %}
   {% include repository.html name="secjs-pow" %}
+  {% include repository.html name="secjs-client %}
 </div>
 
 <div class="repo-group">
